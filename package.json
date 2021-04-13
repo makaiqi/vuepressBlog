@@ -1,0 +1,14 @@
+{
+  "name": "makaiqi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "start deploy.sh"
+  },
+  "author": "麻蛋蛋",
+  "license": "ISC",
+  "keywords": [],
+  "description": "The Growth and Rise of Rookie Ma"
+}
